@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://[{your-web-site-link}](https://khodeejah-recipe-page-755.netlify.app/))
-- GitHub [@okwum](https://github.com/Okwumi)
+- Website [https://khodeejah-recipe-page-755.netlify.app/](https://[https://khodeejah-recipe-page-755.netlify.app/])
+- GitHub [@okwumi](https://github.com/Okwumi)
 - Twitter [@yKhodeejah5](https://twitter.com/Khodeejah5)
