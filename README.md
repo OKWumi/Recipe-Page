@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found}</h1>
+<h1 align="center">Recipe-Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://splendorous-quokka-a78a63.netlify.app/}">
+    <a href="https://{https://khodeejah-recipe-page-755.netlify.app/}">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/Okwumi})
-- Twitter [@your-twitter](https://{twitter.com/Khodeejah5})
+- Website [your-website.com](https://[{your-web-site-link}](https://khodeejah-recipe-page-755.netlify.app/))
+- GitHub [@okwum](https://github.com/Okwumi)
+- Twitter [@yKhodeejah5](https://twitter.com/Khodeejah5)
