@@ -34,7 +34,7 @@ main {
 .advert p {
 	flex-basis: 90%;
 	font-style: italic;
-	font-size: 14px;
+	font-size: 13px;
 	line-height: 20px;
 	padding-right: 20px;
 }
