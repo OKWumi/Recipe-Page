@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [https://khodeejah-recipe-page-755.netlify.app/](https://[https://khodeejah-recipe-page-755.netlify.app/])
 - GitHub [@okwumi](https://github.com/Okwumi)
-- Twitter [@yKhodeejah5](https://twitter.com/Khodeejah5)
+- Twitter [@Khodeejah5](https://twitter.com/Khodeejah5)
